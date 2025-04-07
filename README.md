@@ -130,14 +130,6 @@ python manage.py runserver
 
 本项目采用 MIT License
 
-## ☕ Buy Me a Coffee
-如果你觉得这个项目对你有帮助，你可以通过以下方式支持：
-
-<div align="center">
-  <img src="./asset/buyme.jpg" width="30%" /> &nbsp;&nbsp;&nbsp; <img src="./asset/wechat.jpg" width="30%" />
-</div>
-
-
 ## 📞 联系我们
 
 如有问题，建议，或定制化需求，欢迎通过以下方式联系：
